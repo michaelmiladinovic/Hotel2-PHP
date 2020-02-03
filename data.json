@@ -1,0 +1,26 @@
+[
+	{
+	"name":"Park Inn", 
+	"address":"Address 1", 
+	"picture":"hotel1.jpg", 
+	"price":99.0, 
+	"rooms":20, 
+	"rating":4.5
+	},
+	{
+	"name":"Bangy Inn", 
+	"address":"Address 2", 
+	"picture":"hotel2.jpg", 
+	"price":49.99, 
+	"rooms":3, 
+	"rating":3.0
+	},
+	{
+	"name":"Studio Inn", 
+	"address":"Address 3", 
+	"picture":"hotel3.jpeg", 
+	"price":159.99, 
+	"rooms":10, 
+	"rating":4.7
+	}
+]
